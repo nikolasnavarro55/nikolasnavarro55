@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikolasnavarro55
+- 👀 I’m interested in Data Science and Product Management
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m not currently looking to collaborate
+- 📫 How to reach me: nikolasnavarro.business@gmail.com or Twitter @navarro_scl
